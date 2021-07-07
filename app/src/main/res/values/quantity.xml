@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="quantity">
+
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Time</item>
+
+    </string-array>
+</resources>
